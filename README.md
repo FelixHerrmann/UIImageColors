@@ -18,15 +18,7 @@ iTunes style color fetcher for `UIImage` and `NSImage`. It fetches the most domi
 Add the following to the dependencies of your `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/jathu/UIImageColors.git", from: "x.x.x")
-```
-
-### [CocoaPods](https://cocoapods.org)
-
-Add UIImageColors to your [`Podfile`](https://cocoapods.org/pods/UIImageColors):
-
-```
-pod 'UIImageColors'
+.package(url: "https://github.com/FelixHerrmann/UIImageColors.git", from: "x.x.x")
 ```
 
 ### [Carthage](https://github.com/Carthage/Carthage)
@@ -34,7 +26,7 @@ pod 'UIImageColors'
 Add UIImageColors to your `Cartfile`:
 
 ```
-github "jathu/UIImageColors"
+github "FelixHerrmann/UIImageColors"
 ```
 
 ### Manual
